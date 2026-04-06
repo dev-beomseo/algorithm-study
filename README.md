@@ -6,3 +6,14 @@
 - baekjoon
 - programmers
 - theory
+
+프로젝트 구성
+- `Java 21`
+- `Gradle`
+- `Kotlin JVM`
+
+기본 소스 경로
+- `src/main/java`
+- `src/main/kotlin`
+- `src/test/java`
+- `src/test/kotlin`
